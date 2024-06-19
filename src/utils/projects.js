@@ -4,11 +4,11 @@ const data = [
     {
         name: "Portfolio Website",
         type: "Website",
-        url: "https://rohitk06.site/",
-        github: "https://github.com/DevRohit06/Portfolio-website",
+        url: "#",
+        github: "https://github.com/Prayag-09/prayagPortfolio",
         image: Portfolio,
         slug: "portfolio",
-        description: "This is my Portfolio website made using Astro, Reactjs and Tailwind css. ",
+        description: "This is my Portfolio website made using Astro, Reactjs and Tailwind CSS. ",
         tech: ['Javascript', 'Tailwind css', 'Astro', 'Reactjs']
     },
     {

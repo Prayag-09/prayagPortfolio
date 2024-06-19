@@ -5,13 +5,10 @@ import markdownConfig from './markdown.config';
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import partytown from "@astrojs/partytown";
-import robotsTxt from "astro-robots-txt";
-
-import playformCompress from "@playform/compress";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.rohitk06.site",
+  site: "https://prayag-portfolio-p9yiyqbbh-prayag-09s-projects.vercel.app/",
   prefetch: true,
   markdown: {
     ...markdownConfig
@@ -30,7 +27,6 @@ export default defineConfig({
     config: {
       forward: ["dataLayer.push"]
     }
-  }), robotsTxt({
-    sitemap: ['https://www.rohitk06.site/sitemap-0.xml', 'http://www.rohitk06.site/sitemap-index.xml']
-  }), playformCompress()]
+  })
+]
 });
