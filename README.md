@@ -1,12 +1,6 @@
 
 # Portfolio Website
 
-  
-
-![GitHub](https://img.shields.io/github/license/DevRohit06/Portfolio-website) ![GitHub stars](https://img.shields.io/github/stars/DevRohit06/Portfolio-website) ![GitHub forks](https://img.shields.io/github/forks/DevRohit06/Portfolio-website) ![GitHub last commit](https://img.shields.io/github/last-commit/DevRohit06/Portfolio-website)
-
-  
-
 This is my personal portfolio website built using Tailwind CSS and Astro. It showcases my projects, skills, and contact information.
 
   
@@ -16,12 +10,6 @@ This is my personal portfolio website built using Tailwind CSS and Astro. It sho
   
 
 ![Portfolio Website Preview](https://pbs.twimg.com/media/F6iOZw3WAAAtoqK?format=jpg&name=medium)
-
-  
-
-You can check out the live website [here](https://rohitk06.vercel.app).
-
-  
 
 ## Features
 
@@ -63,7 +51,7 @@ To run this project locally, follow these steps:
 
 ```bash
 
-git clone https://github.com/DevRohit06/Portfolio-website.git
+git clone https://github.com/Prayag-09/prayagPortfolio.git
 
 ```
 
@@ -112,7 +100,7 @@ npm run dev
 
   
 
-6. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website locally.
+6. Open your browser and visit [http://localhost:4321](http://localhost:4321/) to see the website locally.
 
   
 
@@ -136,19 +124,4 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 
   
 
-This project is open source and available under the [MIT License](LICENSE).
-
-  
-
----
-
-  
-
-Icons made by [FontAwesome](https://fontawesome.com/).
-
-  
-
-Feel free to reach out if you have any questions or suggestions!
-
-
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/large.svg)](https://astro.build)
+This project is open source and available under the [MIT License](LICENSE). 
