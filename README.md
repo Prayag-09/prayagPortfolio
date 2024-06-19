@@ -1,10 +1,9 @@
 # 📄 Portfolio Website
 
 Welcome to my personal portfolio website, built using **Tailwind CSS** and **Astro**. This site showcases my projects, skills, and contact information. Feel free to explore and connect!
-<!-- 
-## 🌟 Preview
 
-![Portfolio Website Preview](URL_TO_YOUR_PREVIEW_IMAGE) -->
+## 🌟 Preview
+[Link to the Portfolio Website](https://prayag-portfolio-p9yiyqbbh-prayag-09s-projects.vercel.app/)
 
 ## ✨ Features
 
