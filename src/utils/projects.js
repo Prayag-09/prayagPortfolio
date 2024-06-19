@@ -4,7 +4,7 @@ const data = [
     {
         name: "Portfolio Website",
         type: "Website",
-        url: "#",
+        url: "https://prayagportfolio.vercel.app/",
         github: "https://github.com/Prayag-09/prayagPortfolio",
         image: Portfolio,
         slug: "portfolio",
@@ -12,10 +12,10 @@ const data = [
         tech: ['Javascript', 'Tailwind css', 'Astro', 'Reactjs']
     },
     {
-        name: "Forge Story",
+        name: "Medium Clone",
         type: "Website",
-        url: "#",
-        github: 'https://github.com/Prayag-09/ForgeStory',
+        url: "",
+        github: 'https://github.com/Prayag-09/Medium-Clone',
         image: Portfolio,
         slug: "",
         description: "A medium clone website for Blogging",
