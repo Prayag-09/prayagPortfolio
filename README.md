@@ -1,127 +1,82 @@
+# 📄 Portfolio Website
 
-# Portfolio Website
+Welcome to my personal portfolio website, built using **Tailwind CSS** and **Astro**. This site showcases my projects, skills, and contact information. Feel free to explore and connect!
+<!-- 
+## 🌟 Preview
 
-This is my personal portfolio website built using Tailwind CSS and Astro. It showcases my projects, skills, and contact information.
+![Portfolio Website Preview](URL_TO_YOUR_PREVIEW_IMAGE) -->
 
-  
+## ✨ Features
 
-## Preview
+- 📱 **Responsive Design**: Optimized for all devices.
+- 💼 **Projects Showcase**: Display your best work.
+- ✉️ **Contact Form**: Easy way to get in touch.
+- 📝 **Blog Page**: Share your thoughts and insights.
 
-  
+## 🛠️ Technologies Used
 
-![Portfolio Website Preview](https://pbs.twimg.com/media/F6iOZw3WAAAtoqK?format=jpg&name=medium)
+- **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework.
+- **[Astro](https://astro.build/)**: Modern site builder.
+- **[React](https://react.dev/)**: JavaScript library for building user interfaces.
 
-## Features
+## 🚀 Getting Started
 
-  
+Follow these steps to run this project locally:
 
-- Responsive design
+### Prerequisites
 
-- Projects showcase
+- **Node.js** and **npm** installed on your machine.
 
-- Contact form
+### Installation
 
-- Blog Page
+1. **Clone the repository**:
 
-  
+    ```bash
+    git clone https://github.com/Prayag-09/prayagPortfolio.git
+    ```
 
-## Technologies Used
+2. **Navigate to the project directory**:
 
-  
+    ```bash
+    cd Portfolio-website
+    ```
 
-- [Tailwind CSS](https://tailwindcss.com/)
+3. **Install dependencies**:
 
-- [Astro](https://astro.build/)
+    ```bash
+    npm install
+    ```
 
-- [React](https://react.dev/)
+4. **Start the development server**:
 
-  
+    ```bash
+    npm run dev
+    ```
 
-## Installation
+5. **Open your browser**:
 
-  
+    Visit [http://localhost:4321](http://localhost:4321/) to see the website locally.
 
-To run this project locally, follow these steps:
+## 💡 Usage
 
-  
+This project can be used as a template for your own portfolio website. Customize it by adding your own projects, skills, and contact information.
 
-1. Clone the repository:
+## 🤝 Contributing
 
-  
+Contributions are welcome! If you'd like to contribute, please open an issue or submit a pull request.
 
-```bash
+## 📄 License
 
-git clone https://github.com/Prayag-09/prayagPortfolio.git
+This project is open source and available under the [MIT License](LICENSE).
 
-```
+---
 
-  
+**Connect with me**:
 
-2. Navigate to the project directory:
+- [LinkedIn](https://www.linkedin.com/prayagtushar/)
+- [Twitter](https://twitter.com/prayagtushar)
+- [GitHub](https://github.com/Prayag-09)
 
-  
+---
 
-```bash
-
-cd Portfolio-website
-
-```
-
-
-3. Change the Google Analytics Key Code to your own Key
-
-Change the Key inside 
-```
-Portfolio-website/src/layouts/Layout.astro & BlogLayout.astro
-```
-
-
-4. Install the dependencies:
-
-  
-
-```bash
-
-npm install
-
-```
-
-  
-
-5. Start the development server:
-
-  
-
-```bash
-
-npm run dev
-
-```
-
-  
-
-6. Open your browser and visit [http://localhost:4321](http://localhost:4321/) to see the website locally.
-
-  
-
-## Usage
-
-  
-
-You can use this project as a template for your own portfolio website. Customize it by adding your own projects, skills, and contact information.
-
-  
-
-## Contributing
-
-  
-
-If you'd like to contribute to this project, please open an issue or submit a pull request.
-
-  
-
-## License
-
-  
-
-This project is open source and available under the [MIT License](LICENSE). 
+Made with ❤️ by [Prayag](https://github.com/Prayag-09/prayagPortfolio) - Using Astro
