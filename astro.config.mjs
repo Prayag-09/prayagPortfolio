@@ -33,14 +33,4 @@ export default defineConfig({
   }), robotsTxt({
     sitemap: ['https://www.rohitk06.site/sitemap-0.xml', 'http://www.rohitk06.site/sitemap-index.xml']
   }), playformCompress()]
-  // output: "server",
-  // adapter: vercel({
-  //   webAnalytics: {
-  //     enabled: true
-  //   },
-  //   speedInsights: {
-  //     enabled: true
-  //   },
-  //   imageService: true
-  // })
 });
